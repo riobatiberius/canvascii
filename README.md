@@ -2,7 +2,7 @@
 # use of program
 This is a command-line program that draws ASCII art on a canvas with limited dimensions of 40 rows and 80 columns.The program prints usage information if no argument is provided or if the argument is invalid.
 # How to compile it
-
+it is a a command-line program.
 # How to perform it
 The code uses the printf function to print the usage information and the canvas, and the sscanf function to parse the values provided as options. The memset function is used to fill the canvas with a specific character, and the strcmp function is used to compare the options provided as arguments to determine which action to perform on the canvas.
 # What are the input and output formats
